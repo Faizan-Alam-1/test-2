@@ -6,4 +6,6 @@ git commit -m "this my first commit"
 git rm --cached 
 git log
 git log --oneline 
-git log --oneline --pretty  
+git log --oneline --pretty
+git config --global user.name ""
+git config --global user.email ""  
