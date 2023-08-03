@@ -8,4 +8,9 @@ git log
 git log --oneline 
 git log --oneline --pretty
 git config --global user.name ""
-git config --global user.email ""  
+git config --global user.email ""
+git checkout -b ""
+git checkout 
+git branch
+git remote -v
+   
